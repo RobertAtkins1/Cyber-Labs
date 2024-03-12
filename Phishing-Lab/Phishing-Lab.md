@@ -16,7 +16,7 @@ The email styling looks well put together and appears to be an email from Lowe's
     Sending Address: l7o03@fvreazgkx4[.]com
     Subject: Win a Club Car Golf Cart - Enter Now 
     Recipient address: “Redacted”
-    Sending IP address: 89.144.10.70
+    Sending IP address: 89[.]144[.]10[.]70
     Reverse DNS: AS197549 DE-TopColo GHOSTnet GmbH, DE (registered Jan 28, 2011)
 
 ## Web Artifacts
